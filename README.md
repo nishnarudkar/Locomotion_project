@@ -1,7 +1,3 @@
-Let's add the screenshots to your README file to make it more informative and visually appealing. Here are the updated sections with screenshots included:
-
----
-
 # 🚂 Locomotion Project
 
 The Locomotion Project is a web-based application designed to track train schedules and provide users with real-time information on train arrivals at specific stations. This project is built using modern web technologies and aims to make commuting easier by giving users quick access to accurate train timings.
@@ -145,6 +141,3 @@ git push origin feature-branch
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-Feel free to add or modify any sections as needed!
